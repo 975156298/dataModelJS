@@ -16,6 +16,7 @@
 	 *  changeType 转换类型
 	 *  changeParams 转换函数需要的参数
 	 * */
+	document.write("<script type='text/javascript' src='lodash.js'></script>")
 	class Model {
 		constructor(options = {}) {
 			this._attributes = {
