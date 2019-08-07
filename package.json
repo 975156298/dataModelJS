@@ -1,6 +1,6 @@
 {
   "name": "data-models-js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "数据模型",
   "private": false,
   "main": "dist/main.js",
