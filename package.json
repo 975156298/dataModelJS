@@ -2,6 +2,7 @@
   "name": "data-models-js",
   "version": "1.0.3",
   "description": "数据模型",
+  "private": false,
   "main": "dist/main.js",
   "scripts": {
     "build": "webpack --config webpack.config.js",
